@@ -1,6 +1,3 @@
-1 - https://github.com/fastai/course-v3/tree/master/nbs/dl1
+Test link
 
-2 -  !curl -s https://course.fast.ai/setup/colab | bash
-
-3 - https://machinelearningmastery.com/save-load-keras-deep-learning-models/
-https://docs.google.com/forms/d/e/1FAIpQLSdlgmLsC7INlF8JiTlnN4DEHyKYVi5Mm77RFY4kln0IyZO8tA/viewform
+4 - https://forms.gle/JxbZm4RLzV6UMoAp8
