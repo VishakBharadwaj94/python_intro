@@ -1,0 +1,3 @@
+1 - https://github.com/fastai/course-v3/tree/master/nbs/dl1
+
+2 -  !curl -s https://course.fast.ai/setup/colab | bash
